@@ -1,7 +1,7 @@
 ### a cada dia nos afastamos mais da luz de Deus 👋
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma06&show_icons=true&locale=en&layout=compact" alt="Azuma06" /></p>
+
 <!--
 **Azuma06/Azuma06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
