@@ -1,6 +1,5 @@
 ### a cada dia nos afastamos mais da luz de Deus 👋
 
-### Languages and Tools:
 
 
 
