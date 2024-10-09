@@ -1,5 +1,9 @@
 ### a cada dia nos afastamos mais da luz de Deus 👋
 
+### Languages and Tools:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma06&show_icons=true&locale=en&layout=compact" alt="Azuma06" /></p>
+
 
 
 <!--
